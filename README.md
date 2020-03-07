@@ -1,4 +1,4 @@
-# Futoshiki Puzzle Solver - AI
+# Futoshiki Puzzle Solver - AI Program
 
 CSC384H1S Artificial Intelligence - Assignment 2
 
